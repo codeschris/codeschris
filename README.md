@@ -3,7 +3,7 @@ Hi, I am Christopher Mwalimo. My main interests in tech are ML/AI, Data Science,
 - Currently studying Statistics and Comp. Science.
 - Perfecting my programming skills and learning new concepts: getting better everyday!
 
-You can find my social links by clicking ![here](https://codeschris-links.vercel.app)
+You can find my social links by clicking [here](https://codeschris-links.vercel.app)
 
 
 <!--### 💻 Tech Stack:-->
