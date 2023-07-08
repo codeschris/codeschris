@@ -5,7 +5,11 @@ Hi, I am Christopher Mwalimo. My main interests in tech are ML/AI, Data Science,
 
 You can find my social links by clicking [here](https://codeschris-links.vercel.app)
 
+<!--![](https://github-readme-stats.vercel.app/api?username=codeschris&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=codeschris&theme=dark&hide_border=false)<br/>-->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeschris&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--### 💻 Tech Stack:-->
 <!--Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
