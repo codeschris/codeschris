@@ -1,7 +1,7 @@
 Hi, I am Christopher Mwalimo. My main interests in tech are ML/AI, Data Science, Backend and Game Dev. Besides tech, I also like/love: gaming, football and reading articles and artbooks on the earth, sci-fi and anatomy.
 
-- Currently studying Statistics and Comp. Science.
-- Perfecting my programming skills and learning new concepts: getting better everyday!
+- Currently studying Statistics and Comp. Science (in my final year).
+- Learning new concepts everyday in the tools/languages/stacks I am using and interested in using in the future.
 
 You can find my social links by clicking [here](https://codeschris-links.vercel.app)
 
