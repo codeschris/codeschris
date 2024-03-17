@@ -1,3 +1,5 @@
+# Hey, I'm Chris but people call me `Dice` 😆
+
 Hi, I am Christopher Mwalimo. My main interests in tech are ML/AI, Data Science, Backend and Game Dev. Besides tech, I also like/love: gaming, football and reading articles and artbooks on the earth, sci-fi and anatomy.
 
 - Currently studying Statistics and Comp. Science (in my final year).
