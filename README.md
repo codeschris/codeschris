@@ -7,8 +7,6 @@ Hi, I am Christopher Mwalimo. My main interests in tech are ML/AI, Data Science,
 
 Check out my socials by clicking [here](https://codeschris-links.vercel.app)
 
-*Not so available due to final year tasks. Will update once done with campus. Thank you!*
-
 <!-- [![An image of @codeschris's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codeschris)](https://holopin.io/@codeschris) -->
 
 <!---
